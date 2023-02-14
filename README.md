@@ -1,7 +1,7 @@
 # Binary-search-Visualization
 ## Algorithms Analysis Course Project
 
-This project was a practical task for Algorithms analysis course
+This project was a practical task for the Algorithms analysis course
 
 ### My Team
 Omar khairy ElEtrby
